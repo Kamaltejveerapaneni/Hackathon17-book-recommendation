@@ -16,7 +16,9 @@ Library Book Recommendation system:
 2.Can search for required search criteria such as 
 
 A)Currently reading
+
 B) Requesting to read and
+
 C) books that have been read .
 
 3.Search for a book based on genre specification or keyword specification
